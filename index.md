@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Zakaria Graduation Page
 
 You can use the [editor on GitHub](https://github.com/pelepasan/pelepasan.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
